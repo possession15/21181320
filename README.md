@@ -30,8 +30,8 @@
 
 
 
-* [2333]stepfirst
-* [2233]stepsecond
+* [2333] stepfirst
+* [2233] stepsecond
 
     
 | 随便敲的 | 乱敲的 | 该敲什么 |
