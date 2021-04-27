@@ -24,11 +24,7 @@
  * 动态规划
  * 动态规划
  * 动态规划
-1. lable1
-1. lable2
-1. lable3    2元
-2. 3元
-3. 5元
+
 
 ![本页面网址](https://github.com/possession15/21181320/blob/main/README.md)
 
