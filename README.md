@@ -31,6 +31,16 @@
 ![本页面网址](https://github.com/possession15/21181320/blob/main/README.md)
 
 
+
+* [2333]stepfirst
+* [2233]stepsecond
+
+    
+| 随便敲的 | 乱敲的 | 该敲什么 |
+| :-----| ----: | :----: |
+
+
+
 ```
 #include <iostream>
 using namespace std;
@@ -63,12 +73,3 @@ int main(){
     return 0;
 }
 ```
-    
-    
-    
-| 随便敲的 | 乱敲的 | 该敲什么 |
-| :-----| ----: | :----: |
-
-
-* [2333]stepfirst
-* [2233]stepsecond
