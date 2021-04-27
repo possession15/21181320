@@ -33,6 +33,8 @@
 ![本页面网址]
 (https://github.com/possession15/21181320/blob/main/README.md)
 
+[百度](http://www.baidu.com)
+
 ```
 #include <iostream>
 using namespace std;
