@@ -32,7 +32,7 @@
 
 ![本页面网址]
 (https://github.com/possession15/21181320/blob/main/README.md)
-'''
+"""
 #include <iostream>
 using namespace std;
 int function(int x,int a[]){
@@ -63,7 +63,7 @@ int main(){
     system("pause");
     return 0;
 }
-'''
+"""
 | 随便敲的(左对齐) | 乱敲的（右对齐） | 居中对齐 |
 |:---------|--------:|：--------:|
 
