@@ -11,14 +11,12 @@
 ---
 ---
 
-[外部网址:哔哩哔哩]
-(https://www.bilibili.com/)
+[外部网址:哔哩哔哩](https://www.bilibili.com/)
 
 
 
 >sutudent number:21181320
-[动态规划题解]
-(https://github.com/possession15/21181320/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
+[动态规划题解](https://github.com/possession15/21181320/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 
 * 动态规划
 * 动态规划
@@ -30,10 +28,8 @@
 2. 3元
 3. 5元
 
-![本页面网址]
-(https://github.com/possession15/21181320/blob/main/README.md)
+![本页面网址](https://github.com/possession15/21181320/blob/main/README.md)
 
-[百度](http://www.baidu.com)
 
 ```
 #include <iostream>
