@@ -1,11 +1,11 @@
 # 21181320
 专业英语
 [jump](https://github.com/possession15/21181320/blob/main/%E9%A3%8E%E7%81%B5%E7%8E%89%E7%A7%80.png)
-#上面是一张图片
-##上面是一张卡通图片
-###上面是一张二次元图片
-*It is beautiful*
-~~It is beautiful~
+# 上面是一张图片
+## 上面是一张卡通图片
+### 上面是一张二次元图片
+* It is beautiful *
+~~ It is beautiful ~
 
 
 ---
